@@ -1,0 +1,75 @@
+body {
+  background-color: aqua;
+  position: relative;
+}
+.body {
+  width: 395px;
+  height: 575px;
+  border: 1px solid black;
+  margin: auto auto;
+  margin-top: auto auto;
+  border-radius: 10px;
+}
+#result {
+  width: 389px;
+  height: 90px;
+  text-align: end;
+  font-size: 2rem;
+  border-radius: 10px;
+}
+table {
+  width: 395px;
+  height: 90px;
+  background-color: black;
+}
+
+td {
+  border: 1px solid black;
+}
+.s1 input {
+  padding: 33px;
+  padding-right: 25px;
+}
+.asd input {
+  padding: 38px;
+}
+.s3 input {
+  padding: 38px;
+}
+
+.s4 input {
+  padding: 38px;
+}
+
+.brac input {
+  padding: 35px;
+  padding-right: 40px;
+}
+.s5 input {
+  padding: 38px;
+  padding-right: 25px;
+}
+
+table tr td input {
+  background-color: black;
+  color: aliceblue;
+  border: none;
+}
+.s5 .e3 input {
+  padding-right: 38px;
+}
+.s5 .e4 input {
+  padding-right: 38px;
+}
+.s5 .par input {
+  padding-right: 36px;
+}
+.s1 .Ac input {
+  padding-right: 35px;
+}
+
+table tr td input:hover {
+  background-color: rgb(255, 255, 255);
+  color: black;
+  border-radius: 20px;
+}
